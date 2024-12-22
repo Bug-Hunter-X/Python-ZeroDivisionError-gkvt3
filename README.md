@@ -1,0 +1,1 @@
+This repository contains a simple example of a ZeroDivisionError in Python and its solution. The bug occurs when attempting to divide a number by zero.  The solution involves adding error handling to prevent the error.
